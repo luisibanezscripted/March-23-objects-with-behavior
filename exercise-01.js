@@ -1,5 +1,5 @@
 var student = {
- name: "John",
+  name: "John",
 };
 
 

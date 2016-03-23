@@ -1,13 +1,13 @@
 var student = {
- name: "John",
- email: "john@gmail.com",
- phone: "518-444-5555",
- address: {
-   number: 33,
-   street: "Christopher St",
-   city: "New York",
-   state: "NY",
-   zip: "12345"
+  name: "John",
+  email: "john@gmail.com",
+  phone: "518-444-5555",
+  address: {
+    number: 33,
+    street: "Christopher St",
+    city: "New York",
+    state: "NY",
+    zip: "12345"
   }
 };
 

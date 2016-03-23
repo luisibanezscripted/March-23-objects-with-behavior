@@ -1,8 +1,8 @@
 var student = {
- name: "John",
- email: "john@gmail.com",
- phone: "518-444-5555",
- address: "33 Christopher St, New York, NY"
+  name: "John",
+  email: "john@gmail.com",
+  phone: "518-444-5555",
+  address: "33 Christopher St, New York, NY"
 };
 
 
