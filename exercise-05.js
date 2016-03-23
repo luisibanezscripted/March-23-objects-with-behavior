@@ -14,15 +14,21 @@ var student = {
     "history",
     "design",
     "accounting" 
-  ]
+  ],
+ printClasses: function() {
+  for(var i in this.classes) {
+    console.log(this.classes[i]);
+    }
+  }
 };
 
+student.printClasses();
 
 /* 
 
-Exercise 04: 
+Exercise 05: 
 
-    * Add an attribute "printClasses" 
-    * Make it to be a function that lists the student's classes.
+    * Add an attribute "printAddress" 
+    * Make it to be a function that prints the full student's address.
 
 */
